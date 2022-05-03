@@ -1,0 +1,1 @@
+bit of practice for working with the heap and various types of pointers
